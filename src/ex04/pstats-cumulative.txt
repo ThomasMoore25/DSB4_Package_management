@@ -1,0 +1,15 @@
+Sun Jan 11 12:24:37 2026    /tmp/tmp.pzUlokW9Mu
+
+         1055451 function calls (1027846 primitive calls) in 2.764 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2118 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    180/1    0.004    0.000    2.764    2.764 {built-in method builtins.exec}
+        1    0.000    0.000    2.764    2.764 financial.py:1(<module>)
+        1    0.001    0.001    1.893    1.893 financial.py:150(main)
+        1    0.000    0.000    1.892    1.892 financial.py:32(get_financial_data)
+        1    0.000    0.000    1.576    1.576 /home/user/Bootcamp1/DSB4_Package_management.ID_1577671-1/src/ex00/user/lib/python3.14/site-packages/requests/api.py:62(get)
+
+
